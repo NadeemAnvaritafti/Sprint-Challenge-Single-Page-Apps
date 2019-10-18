@@ -27,7 +27,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer:  -- routing is handled by JS that is already on the page, preventing an HTTP request.
+The data stored as state is displayed immediately without having the client request resources from a server and refreshing the page.
 
 ## Project Set Up
 
